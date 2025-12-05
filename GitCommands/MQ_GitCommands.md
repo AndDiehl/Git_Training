@@ -1,4 +1,5 @@
 # MQ GIT CHEAT SHEET
+# AND
 
 **This is a collection of Git commands, which are very useful for beginners**
 
